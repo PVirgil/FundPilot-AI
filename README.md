@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Launch FundPilot AI](https://your-streamlit-url)
+👉 [Launch FundPilot AI](https://fundpilot-ai.streamlit.app)
 
 ---
 
